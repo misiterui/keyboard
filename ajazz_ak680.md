@@ -1,0 +1,2 @@
+- 切换Fn：`Fn` + `LCtrl`
+- 切换`PrtSc`等功能键：`Fn` + `RCtrl`
